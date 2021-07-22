@@ -1,0 +1,8 @@
+{
+"camelcase" : true,
+"undef" : true,
+"esversion" : 6,
+"esversion": 9,
+"browser" : true,
+"devel": true
+}

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+body {
+  background-image: radial-gradient(#868585 2px, white 2px);
+  background-size: 40px 40px;
+  font-weight: 900;
+}
+/*# sourceMappingURL=main.css.map */
