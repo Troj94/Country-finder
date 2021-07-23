@@ -1,4 +1,4 @@
-import './sass/main.scss';
+import './sass/mainStyles.scss';
 import debounce from 'lodash.debounce';
 import Notiflix from 'notiflix';
 import countryTempl from './templates/countryInfo';

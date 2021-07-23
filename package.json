@@ -6,7 +6,7 @@
   "homepage": "https://troj94.github.io/goit-js-hw-12-countries-async/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url goit-js-hw-12-countries-async/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries-async/"
   },
   "repository": {
     "type": "git",
