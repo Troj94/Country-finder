@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://troj94.github.io/goit-js-hw-12-countries-async/",
+  "homepage": "https://troj94.github.io/Country-finder/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries-async/"
+    "build": "parcel build src/*.html --public-url /Country-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Troj94/goit-js-hw-12-countries-async.git"
+    "url": "git+https://github.com/Troj94/Country-finder.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
