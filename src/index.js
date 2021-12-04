@@ -7,9 +7,9 @@ import countriesListTempl from './templates/countriesList';
 
 async function fetchCountries(countryName) {
     const options = new URLSearchParams({
-    fields: 'name;capital;population;flag;languages;currencies',
+    fields: 'name,capital,population,flag,languages,currencies',
   });
-    const fetchCountries = fetch(`https://restcountries.eu/rest/v2/name/${countryName}?${options}`);
+    const fetchCountries = fetch(`https://restcountries.com/v2/name/${countryName}?${options}`);
     const response = await fetchCountries;
     if (!response.ok) {
         throw new Error(response.status);
